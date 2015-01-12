@@ -27,6 +27,7 @@ If you do not have Receiver installed, download it at https://www.citrix.com/go/
 
 Feedback
 Thank you for participating in our early feedback program. 
+
 Help us meet your needs by providing feedback. It will help shape the evolution of Citrix Workspace Cloud. 
 
 
